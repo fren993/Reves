@@ -1,3 +1,47 @@
+
+
 body{
-    background-color: #F2EDDC;
+    background-color: #e7e4ce;
+    color: #142f3f;
+    margin: 0;
+    padding:0;
+}
+
+
+/* =========================
+   NAVBAR
+========================= */
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #7b1520;
+  
+}
+ul{
+    display: flex;
+    justify-content: right;
+    align-items: right;
+    
+}
+li{
+    font-weight: bold;
+    font-size: large; 
+}
+ul li a {
+  display: block;
+  color: #e7e4ce;
+  padding: 14px 16px;
+  text-decoration: none;
+
+}
+
+ul li a:hover {
+  background-color: #631018;
+}
+header h3{
+    color: #e7e4ce;
+      font-weight: bold;
+  font-size: large;
 }
