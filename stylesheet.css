@@ -1,12 +1,54 @@
 
-
 body{
-    background-color: #e7e4ce;
-    color: #142f3f;
+    background-color: #000000;
+    color: #e7e4ce;
     margin: 0;
     padding:0;
+    text-align: center;
+    align-items: center;
+    
+}
+h1, h2, p{
+    text-align:center;
 }
 
+.row{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content:center;
+    align-items:center;
+    padding: 0 10px;
+
+    margin: 0;
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.row img{
+    width: 100%;
+    height:auto;
+
+}
+
+.row:after{
+    content: "";
+    display: table;
+    clear: both;
+}
+.Text{
+    position: relative;
+    text-align: center;
+    color: #e7e4ce;
+}
+
+.top-right{
+    position:absolute;
+    top:50px;
+    bottom: 30px;
+    left: 20px;
+    font-size: 25px;
+}
 
 /* =========================
    NAVBAR
