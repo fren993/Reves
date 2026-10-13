@@ -23,9 +23,9 @@ div.portfolios{
 
 }
 div.portfolios img{
-  border-radius: 60%;
-  width: 200px;
-  height:210px;
+  border-radius: 70%;
+  width: 160;
+  height:190px;
   contain: fill;
 }
 
@@ -89,7 +89,7 @@ ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  background-color: #7b1520;
+  background-color: #f2d282;
   
 }
 ul{
@@ -104,14 +104,14 @@ li{
 }
 ul li a {
   display: block;
-  color: #e7e4ce;
+  color: #780404;
   padding: 14px 16px;
   text-decoration: none;
 
 }
 
 ul li a:hover {
-  background-color: #631018;
+  background-color: #d39177;
 }
 header h3{
     color: #e7e4ce;
