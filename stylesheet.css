@@ -6,8 +6,10 @@ body{
   padding:0;
   text-align: center;
   align-items: center;
-    
+  font-family: "Inter", sans-serif;
+  font-style: normal;
 }
+
 h1, h2, p{
   text-align:center;
 }
