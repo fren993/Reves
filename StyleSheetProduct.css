@@ -19,14 +19,16 @@ b{
     width:50%;
     height:auto;
     padding: 10px;
-    background-color:azure
+    background-color:azure;
+    display: flex;
+    justify-content: left;
 }
 .product-item{
     display: flex;
     justify-content: left;
     position: absolute;
-    top: 110px;
-    left:15px;
+    top: 20%;
+    left:5%;
     margin:0;
 
 }
@@ -34,8 +36,8 @@ b{
     display:flex;
     justify-self: center;
     position:relative;
-    right: 90px;
-    top:120px;
+    right: 21%;
+    top:20%;
 }
 .item-opt, p{
     display:flex;
