@@ -23,7 +23,7 @@ div.portfolios{
 
 }
 div.portfolios img{
-  border-radius: 70%;
+  border-radius: 60%;
   width: 160;
   height:190px;
   contain: fill;
@@ -89,10 +89,9 @@ ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  background-color: #f2d282;
+  background-color: #863d3d;
   
-}
-ul{
+
     display: flex;
     justify-content: right;
     align-items: right;
@@ -104,14 +103,14 @@ li{
 }
 ul li a {
   display: block;
-  color: #780404;
+  color: #dfb3b3;
   padding: 14px 16px;
   text-decoration: none;
 
 }
 
 ul li a:hover {
-  background-color: #d39177;
+  background-color: #904848;
 }
 header h3{
     color: #e7e4ce;
