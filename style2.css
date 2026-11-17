@@ -1,0 +1,58 @@
+* {box-sizing: border-box;}
+body {font-family: Arial, Helvetica, sans-serif;}
+
+/* header */
+header {
+  background-color: #666;
+  padding: 20px;
+  text-align: center;
+  color: white;
+}
+
+header h1 {
+  font-size: 2.5rem;
+}
+
+/* Container for flexboxes */
+section {
+  display: flex;
+}
+
+/* navigation menu */
+nav {
+  flex: 1;
+  background-color: #ccc;
+  padding: 15px;
+}
+
+/* Style list inside nav menu */
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+/* Style the content */
+article {
+  flex: 4;
+  background-color: #f1f1f1;
+  padding: 15px;
+}
+
+article h2 {
+  font-size: 2rem;
+}
+
+/* Style the footer */
+footer {
+  background-color: #888;
+  padding: 10px;
+  text-align: center;
+  color: white;
+}
+
+/* Responsive layout - makes the menu and the content sit on top of each other instead of next to each other */
+@media (max-width: 600px) {
+  section {
+    flex-direction: column;
+  }
+}
