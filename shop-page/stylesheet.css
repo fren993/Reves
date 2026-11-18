@@ -49,22 +49,22 @@ p{
     height: 16px;
 }
 .rating .fa{
-    color:aqua;
+    color:#ffeded;
 }
 .rating .fas{
-    color:aqua
+    color:#ffeded;
 }
 .brand{
     background: #904848;
     width: fit-content;
-    color:#dfb3b3;
+    color:#ffeded;
     font-size: 14px;
     padding: 2px 5px;
     border-radius: 5%;
 }
 h2{
     font-size: 35px;
-    color:#777;
+    color:#fffefe;
 }
 
 h3{
@@ -84,7 +84,7 @@ h3{
     counter-reset: #fff;
 }
 .price{
-    color:rgb(73 7 128);
+    color:#904848;
     font-weight: bold;
     padding-top: 10px;
     padding-right: 10px;
@@ -109,7 +109,7 @@ button .fa{
     margin-right: 10px;
 }
 strike{
-    color:red;
+    color:#904848;
     font-weight: bold;
 }
 .buy{
