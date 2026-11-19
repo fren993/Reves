@@ -235,25 +235,60 @@ header h3{
 
     }
 }
-@media only screen and (max-width:1200px){
+@media only screen and (max-width:770px){
     .all-images{
         flex-direction: column;
         height: auto;
  
     }
     .small-images{
-             flex-direction: row;
+         flex-direction: row;
+        justify-content: space-evenly;
+        order:1;
+    }
+    .product-box{
+        width:100%
+    }
+ 
+    .main-images{
+        width:100%
+    }
+    .small-images img{
+       width:100%;
+    }
+    h2{
+        font-size:25px;
+    }
+
+}
+
+
+@media only screen and (max-width:480px){
+    .all-images{
+        flex-direction: column;
+        height: auto;
+ 
+    }
+    .small-images{
+        flex-direction: row;
         justify-content: space-evenly;
         order:1;
     }
     .product-box{
         width:100%;
     }
+    .small-images img{
+        width:20%
+    }
+    .main-images{
+        width:100%
+    }
     h2{
-        font-size:25px;
+        font-size:20px;
     }
     button.buy{
         margin-top: 10px;
     }
 }
+
 
