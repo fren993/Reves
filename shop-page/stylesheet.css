@@ -504,6 +504,9 @@ header h3{
     .main-images{
         width:100%
     }
+    .main-images img{
+        max-width: 80%;
+    }
     .small-images img{
        width:30%;
        height:fit-content;
@@ -525,6 +528,9 @@ header h3{
         flex-direction: row;
         justify-content: space-evenly;
         order:1;
+    }
+    .main-images img{
+        max-width: 70%;
     }
     .product-box{
         width:100%;
