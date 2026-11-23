@@ -1,11 +1,11 @@
-#Reves: Dress and Thrift#
+# Reves: Dress and Thrift
 
 - Our app Reves provides **luxury clothes and everyday wear for an affordable price that doesn’t burn a hole in their wallet. Users can sell or rent clothes.** 
 Our app is designed for teenagers, young adults, and people who want fashionable clothing without spending too much money. 
 - Many young people enjoy keeping up with fashion trends, but constantly buying new clothes can become expensive. At the same time, people often have clothes in their closets that they no longer wear but are still in good condition.
 - This website holds all of the information about the developers and the iframes for the prototypes made.
-
-#Navigation:#
+---
+# Navigation:
 
 - Enjoy browsing through our website by clicking on our images!
 
