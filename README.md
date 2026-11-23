@@ -17,8 +17,15 @@ Our app is designed for teenagers, young adults, and people who want fashionable
 Users can interact with images and  prototypes to immerse themselves in the world of Reves.
 The group of reves maintains this website alive and works on the programming periodically.
 
+
+## Tips
+
+- After clicking on the products our prototype ends there, is a simple page for you to get to know our app better and understand the interface.
+- Navigate through the prototypes so you can better understand the app and software.
+- If you have time go through our portfolios!
+  
 ## URL To Website
-[Reves}(https://fren993.github.io/Reves/)
+[Reves](https://fren993.github.io/Reves/)
 
 ### License
 
