@@ -109,6 +109,8 @@ button{
     box-sizing: border-box;
     cursor:pointer;
     background-color: #863d3d;
+   
+ 
 }
 button .fa{
     margin-right: 10px;
@@ -123,7 +125,16 @@ strike{
 
 
 h1, h2, p{
-  text-align:center;
+  text-align:left;
+
+  float: inline-start;
+  color: #dfb3b3;
+  gap:5px;
+  padding: 10px 10px 10px;
+}
+input{
+    width:30px;
+    padding:2px 1px 0px;
 }
 div.portfolios{
   display: flex;
