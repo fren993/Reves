@@ -35,6 +35,9 @@ body{
     margin-bottom: 9px;
     cursor: pointer;
     opacity: 0.6;
+
+    width: 100px;
+    max-width: 100%;
 }
 .small-images img:hover{
     opacity:1;
@@ -249,7 +252,7 @@ header h3{
         justify-content: space-evenly;
         order:1;
 
-        max-width: 25%;
+        max-width: 30%;
 
     }
     .product-box{
@@ -263,7 +266,7 @@ header h3{
         max-width: 100%;
     }
     .small-images img{
-       width:30%;
+       width:50%;
        height:fit-content;
     }
     h2{
@@ -289,15 +292,14 @@ header h3{
     }
     .main-images img{
         max-width: 100%;
-        height:auto;
 
     }
     .product-box{
         width:100%;
     }
     .small-images img{
-        width: 30%;
-        height: auto;
+        width: auto;
+        height: 20%;
         
     }
     .main-images{
